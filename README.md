@@ -26,8 +26,8 @@ I'm a [Your Profession] based in [Your Location] with a passion for [Your Intere
 ## 📊 LeetCode Stats
 
 <!-- LeetCode Card -->
-<a href="https://leetcode.com/KamalDas492/">
-  <img src="https://leetcode.card.workers.dev/?username=KamalDas492" alt="LeetCode Stats" />
+<a href="https://leetcode.com/Kamal492/">
+  <img src="https://leetcode.card.workers.dev/?username=Kamal492" alt="LeetCode Stats" />
 </a>
 
 ## 📫 Connect with me
