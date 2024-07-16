@@ -17,9 +17,8 @@ I'm a Full-stack developer based in India with a passion for Software Developmen
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6D4A78?style=flat)
 
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalDas492&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalDas492&show_icons=true&theme=radical)
 
 ## 📊 LeetCode Stats
 
