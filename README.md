@@ -1,13 +1,11 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Kamal Das 👋
 
 ## About Me
-I'm a [Your Profession] based in [Your Location] with a passion for [Your Interests, e.g., web development, data science, open-source projects]. I love to [Your Hobbies, e.g., code, write, contribute to open-source, teach] and I'm always eager to learn and explore new technologies.
+I'm a Full-stack developer based in India with a passion for Software Development and Artificial Intelligence. I'm always eager to learn and explore new technologies.
 
-- 🌱 I’m currently learning [Technology/Topic]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Problem/Technology]
-- 💬 Ask me about [Your Expertise/Interests]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
+- 🌱 I’m currently learning Java and Spring Boot
+- 👯 I’m looking to collaborate on projects involving software development and machine learning applications
+
 
 ## 🔧 Technologies & Tools
 
@@ -32,6 +30,6 @@ I'm a [Your Profession] based in [Your Location] with a passion for [Your Intere
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Your LinkedIn Profile](https://www.linkedin.com/in/kamal-das-a748a51a5/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kamal-das-a748a51a5/))
 
 Thanks for stopping by! 😄
