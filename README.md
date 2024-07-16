@@ -27,7 +27,9 @@ I'm a Full-stack developer based in India with a passion for Software Developmen
 <a href="https://leetcode.com/Kamal492/">
   <img src="https://leetcode.card.workers.dev/?username=Kamal492" alt="LeetCode Stats" />
 </a>
-## 📊 Codeforces Stats
+
+## 🚀 Codeforces Rating
+
 ![Codeforces Rating](https://cfrating.ihcr.top/?user=KamalDas496)
 
 ## 📫 Connect with me
