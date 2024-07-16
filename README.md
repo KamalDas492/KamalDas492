@@ -32,6 +32,6 @@ I'm a [Your Profession] based in [Your Location] with a passion for [Your Intere
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn Profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Your LinkedIn Profile](https://www.linkedin.com/in/kamal-das-a748a51a5/))
 
 Thanks for stopping by! 😄
