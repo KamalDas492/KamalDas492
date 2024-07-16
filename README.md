@@ -16,6 +16,8 @@ I'm a [Your Profession] based in [Your Location] with a passion for [Your Intere
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6D4A78?style=flat)
+
 
 ## 📈 GitHub Stats
 
@@ -23,8 +25,10 @@ I'm a [Your Profession] based in [Your Location] with a passion for [Your Intere
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Kamal492&hide=contributed-to,issues&theme=dark)
-
+<!-- LeetCode Card -->
+<a href="https://leetcode.com/KamalDas492/">
+  <img src="https://leetcode.card.workers.dev/?username=KamalDas492" alt="LeetCode Stats" />
+</a>
 
 ## 📫 Connect with me
 
