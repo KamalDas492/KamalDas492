@@ -19,7 +19,7 @@ I'm a Full-stack developer based in India with a passion for Software Developmen
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalDas492&show_icons=true&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalDas492&show_icons=true)
 
 ## 📊 LeetCode Stats
 
