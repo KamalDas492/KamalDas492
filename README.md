@@ -28,10 +28,6 @@ I'm a Full-stack developer based in India with a passion for Software Developmen
   <img src="https://leetcode.card.workers.dev/?username=Kamal492" alt="LeetCode Stats" />
 </a>
 
-## 🚀 Codeforces Rating
-
-![Codeforces Rating](https://cfrating.ihcr.top/?user=KamalDas496)
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kamal-das-a748a51a5/))
