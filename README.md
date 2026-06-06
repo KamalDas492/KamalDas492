@@ -33,4 +33,3 @@ I'm a Full-stack developer based in India with a passion for Software Developmen
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kamal-das-a748a51a5/))
 
 Thanks for stopping by! 😄
-![View Count](https://komarev.com/ghpvc/?username=KamalDas492)
